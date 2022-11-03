@@ -1,0 +1,44 @@
+box-sizing: border-box;
+
+html {
+  height: 95;
+  width: 95;}
+
+header {background-color:#900000}
+/*styling of heads*/ 
+h1, h2, h3  {text-align: center
+        font-family:'Montserrat', serif;
+        color: black;
+        text-align: center;
+        letter-spacing: 1;
+        margin: 1;
+        padding: 15px 0 0 0;
+       }
+h1 {font-size: 40}
+h2 {font-size: 25}
+h3 {font-size: 20}
+
+/*styling of paragraphs*/
+
+p {text-align: justify
+  font-family: Montserrat, sans-serif;}
+
+/*pseudo-classes for links*/
+
+a:link { color: #38786a; }
+a:visited { color: #red; }
+a:hover { color: pink; }
+a:active { color: #403933; }
+
+
+footer {background-color:white;
+       text-align: center;
+       height: 10;}
+
+ol {font-size: 16}
+
+main {background-color:#D3D3D3 }
+
+article {text-align: center}
+
+.Keyhan-intro {font-family: cursive}
