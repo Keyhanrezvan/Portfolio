@@ -4,7 +4,7 @@ html {
   height: 95;
   width: 95;}
 
-header {background-color:#900000}
+header {background-color:white}
 /*styling of heads*/ 
 h1, h2, h3  {text-align: center
         font-family:'Montserrat', serif;
@@ -25,10 +25,10 @@ p {text-align: justify
 
 /*pseudo-classes for links*/
 
-a:link { color: #38786a; }
-a:visited { color: #red; }
-a:hover { color: pink; }
-a:active { color: #403933; }
+a:link { color: purple; }
+a:visited { color: red; }
+a:hover { color: green; }
+a:active { color: black; }
 
 
 footer {background-color:white;
